@@ -1,5 +1,6 @@
 # rmall
-> version 1.0.2 <
+> version 1.0.2 
+***
 A simple programm, inteneded to replace "rm" and "rmdir" by combining their features in single executable.
 
 ## Installing
