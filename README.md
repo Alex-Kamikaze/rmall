@@ -3,9 +3,9 @@
 A simple programm, inteneded to replace "rm" and "rmdir" by combining their features in single executable.
 
 ## Installing
->Windows
+>Windows>
 You can install programm by cloning repo to your local machine, and then add directory, which contains executable, directly to PATH variable. 
->Linux
+>Linux>
 To install Linux version, follow the same steps, but then move binary executable to usr/bin directory.
 
 ## Quickstart
